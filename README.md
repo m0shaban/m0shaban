@@ -43,15 +43,4 @@ This is a curated selection of my work, demonstrating the application of AI and 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedshaban-ai/)
 ---
 
-<details>
-<summary>الرؤية باللغة العربية</summary>
-  
-<p align="right">
-أعمل كـ <b>مهندس نُظم (Systems Architect)</b>، حيث أقوم بتصميم وبناء أطر عمل ذكية لحل التحديات النظامية في القطاعات الحيوية على المستويين الوطني والمؤسسي. يرتكز عملي على توظيف التقنيات الأساسية للثورة الصناعية الرابعة—الذكاء الاصطناعي، تعلم الآلة، والروبوتات—لهندسة حلول مستقبلية تتميز بالمرونة والكفاءة وقابلية التوسع.
-</p>
-  
-<p align="right">
-يُعد هذا الحساب على GitHub بمثابة <b>خزانة الأدلة</b> التي توثق منهجيتي في البناء الهندسي وقدرتي على التنفيذ التقني. كل مستودع هنا هو دراسة حالة موثقة: مشكلة تم تحليلها، نظام تم تصميمه، وحل تم تنفيذه.
-</p>
 
-</details>
