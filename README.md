@@ -13,12 +13,13 @@ This is a curated selection of my work, demonstrating the application of AI and 
 
 | Project                                                                              | Sector / Domain        | Core Technology           |
 | ------------------------------------------------------------------------------------ | ---------------------- | ------------------------- |
-| [cite_start]🤖 **[Robotic Arm Control Systems (6DoF)](link-to-your-repo)**                           | Industrial Automation  | Robotics, Kinematics      |
-| ⚖️ **[Intelligent Legal Advisor](link-to-your-repo)** | Justice & Legal Tech   | Natural Language Processing |
-| [cite_start]🏊 **[Real-Time Drowning Detection](link-to-your-repo)**                              | Public Safety          | Computer Vision, AI       |
-| 🎓 **[Interactive Educational Platform](link-to-your-repo)** | Education Technology   | Generative AI, Chatbots   |
-| 📈 **[Advanced Financial Analysis Dashboard](link-to-your-repo)** | Finance & Enterprise   | Data Science, AI          |
-| [cite_start]🏭 **[Production Line Optimization](link-to-your-repo)**                           | Industrial Efficiency  | Kinematics Analysis, AI   |
+| 🤖 **[RoboVAI-Labs (Adaptive Learning)](https://github.com/m0shaban/RoboVAI-Labs)** | Education Technology   | Generative AI, HCI        |
+| 🚦 **[VisionFlow Analyzer (Traffic AI)](https://github.com/m0shaban/visionflow-analyzer)** | Urban Intelligence     | Computer Vision, Gemini   |
+| 🏛️ **[TaskFlow Pro (Governance Platform)](https://github.com/m0shaban/TaskFlow-Pro)** | Enterprise Operations  | Full-Stack, Governance    |
+| 📈 **[FinGenius (Financial AI)](https://github.com/m0shaban/FinGenius)** | FinTech & Strategy     | Data Science, AI          |
+| ⚖️ **[Project Themis (Legal AI)](https://github.com/m0shaban/ai_legal_advisor)** | Justice & Legal Tech   | Natural Language Processing |
+| 🧠 **[Project Nexus (Productivity Hub)](https://github.com/m0shaban/nexus)** | Productivity & AI      | Full-Stack, AI Assistants |
+
 
 ---
 
@@ -42,5 +43,3 @@ This is a curated selection of my work, demonstrating the application of AI and 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedshaban-ai/)
 ---
-
-
