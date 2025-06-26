@@ -19,6 +19,7 @@ This is a curated selection of my work, demonstrating the application of AI and 
 | 📈 **[FinGenius (Financial AI)](https://github.com/m0shaban/FinGenius)** | FinTech & Strategy     | Data Science, AI          |
 | ⚖️ **[Project Themis (Legal AI)](https://github.com/m0shaban/ai_legal_advisor)** | Justice & Legal Tech   | Natural Language Processing |
 | 🧠 **[Project Nexus (Productivity Hub)](https://github.com/m0shaban/nexus)** | Productivity & AI      | Full-Stack, AI Assistants |
+| 🤖 **[Echo-Tutor-different-versions (Adaptive Learning)](https://github.com/m0shaban/Echo-Tutor-different-versions)** | Education Technology   | Generative AI, HCI        |
 
 
 ---
