@@ -38,7 +38,7 @@ I founded **RoboVAI Solutions** to bridge the gap between technology and educati
 
 </div>
 
-### <img src="RoboVAI Bot.png" width="40" height="40" style="vertical-align: middle; margin-right: 10px;" /> 1. [RoboVAI Bot Platform](https://github.com/m0shaban/robovai_bot)
+### <img src="RoboVAI Bot.png" width="40" height="40" style="vertical-align: middle; margin-right: 10px;" /> 1. [RoboVAI Bot Platform]([haban/robovai_bot](https://robovai-backend.onrender.com/)
 **The Ultimate AI-Powered Customer Engagement Solution**
 
 An enterprise-grade, multi-tenant chatbot platform designed to revolutionize customer interaction.
