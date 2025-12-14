@@ -21,8 +21,6 @@
 
 As a **Systems Architect**, I design and build intelligent frameworks to solve systemic challenges across critical national and enterprise sectors. My work leverages the core technologies of the Fourth Industrial Revolution—AI, machine learning, and robotics—to engineer scalable, efficient, and resilient solutions for the future.
 
-This GitHub serves as the evidence locker for my architectural methodology and technical execution. Each repository is a documented case study: a problem analyzed, a system designed, and a solution implemented.
-
 📍 **Location:** 6th of October City, Egypt  
 🎓 **Education:** B.Sc. in Mechatronics Engineering (2019-2024) | *Graduation Project: "Excellent" Oil Skimmer Boat*
 
@@ -30,41 +28,50 @@ This GitHub serves as the evidence locker for my architectural methodology and t
 
 ## 🏢 RoboVAI Solutions - My Startup Journey
 
-I founded **RoboVAI Solutions** to bridge the gap between technology and education while helping businesses transform digitally. Here are the core products I've built:
+I founded **RoboVAI Solutions** to bridge the gap between technology and education while helping businesses transform digitally.
 
 <div align="center">
 
 ### 🔷 Our Ecosystem
 
-### 1. <img src="RoboVAI Bot.png" width="40" height="40" style="vertical-align: middle; margin-right: 10px;" /> [RoboVAI Bot Platform](https://robovai-backend.onrender.com/)
-**The Ultimate AI-Powered Customer Engagement Solution**
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="RoboVAI Bot.png" width="60" />
+      <br />
+      <h3><a href="https://robovai-backend.onrender.com/">1. RoboVAI Bot Platform</a></h3>
+      <p><strong>The Ultimate AI Customer Engagement Solution</strong></p>
+      <p>Enterprise-grade chatbot platform automating support & sales 24/7 using LLMs & NLP.</p>
+    </td>
+    <td align="center" width="50%">
+      <img src="robovai academy.png" width="60" />
+      <br />
+      <h3><a href="#">2. RoboVAI Academy</a></h3>
+      <p><strong>Transform Your Learning Journey</strong></p>
+      <p>Comprehensive ed-tech platform aiming for 10k+ students with Real-time Video tech.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="robovai j.png" width="60" />
+      <br />
+      <h3><a href="https://robovai-junior.netlify.app/">3. RoboVAI Junior</a></h3>
+      <p><strong>Gateway to Programming for Kids</strong></p>
+      <p>Gamified mobile app teaching visual coding (Blockly) & Python.</p>
+    </td>
+    <td align="center" width="50%">
+      <img src="RoboVAI Solutions.png" width="60" />
+      <br />
+      <h3><a href="https://robovai.blogspot.com/">4. RoboVAI Corporate</a></h3>
+      <p><strong>Digital Transformation Partner</strong></p>
+      <p>The central hub for enterprise services, ERP systems, and custom AI solutions.</p>
+    </td>
+  </tr>
+</table>
 
-An enterprise-grade, multi-tenant chatbot platform designed to revolutionize customer interaction.
-* **Core Tech:** LLMs, NLP, Multi-channel Integration (WhatsApp, Telegram, Messenger).
-* **Key Features:** Visual Flow Builder, Smart Lead Capture, Hybrid Response System.
-* **Impact:** Automating customer support and sales 24/7.
+</div>
 
-### 2. <img src="robovai academy.png" width="40" height="40" style="vertical-align: middle; margin-right: 10px;" /> [RobovAI Academy](#)
-**Transform Your Learning Journey**
-
-A comprehensive online education platform connecting students with expert teachers.
-* **Target Scale:** Designed to support **10,000+ Active Students** & **500+ Teachers**.
-* **Tech:** Next.js, Real-time Video.
-* **Mission:** Making quality education accessible.
-
-### 3. <img src="robovai j.png" width="40" height="40" style="vertical-align: middle; margin-right: 10px;" /> [RobovAI Junior](https://robovai-junior.netlify.app/)
-**Gateway to Programming & AI for Kids**
-
-Interactive mobile app teaching coding through gamification.
-* **Features:** Visual Programming (Blockly) & Python.
-* **Tech:** React Native, AI-Powered Assistant.
-
-### 4. <img src="RoboVAI Solutions.png" width="40" height="40" style="vertical-align: middle; margin-right: 10px;" /> [RoboVAI Corporate](https://robovai.blogspot.com/)
-**Digital Transformation Partner**
-
-The central hub for our enterprise services, from ERP systems to custom AI solutions.
-
-
+---
 
 ## 🚀 Strategic Case Studies Showcase
 
@@ -86,17 +93,21 @@ A curated selection of my architectural work across critical domains.
 
 <div align="center">
 
+### 🧠 AI & Machine Learning
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge&logo=openai)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-8A2BE2?style=for-the-badge&logo=powerbi)
+
+### 💻 Development & IoT
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![IoT](https://img.shields.io/badge/IoT-20978E?style=for-the-badge&logo=e-we-link)
+![Robotics](https://img.shields.io/badge/Robotics-D83A00?style=for-the-badge&logo=robotframework)
 
+### 🏗️ Architecture
 ![Digital Transformation](https://img.shields.io/badge/Digital%20Transformation-00529B?style=for-the-badge&logo=digitalocean)
 ![Systems Architecture](https://img.shields.io/badge/Systems%20Architecture-4A4A4A?style=for-the-badge&logo=git)
-![Robotics](https://img.shields.io/badge/Robotics-D83A00?style=for-the-badge&logo=robotframework)
-![IoT](https://img.shields.io/badge/IoT-20978E?style=for-the-badge&logo=e-we-link)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-8A2BE2?style=for-the-badge&logo=powerbi)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-DA1F0F?style=for-the-badge&logo=solidworks)
 
 </div>
@@ -108,33 +119,24 @@ A curated selection of my architectural work across critical domains.
 <details>
 <summary><strong>Click to expand full list</strong></summary>
 
-### Technology & Digital Transformation
-- 🎓 **Generative AI Certificate (GAIC)** - Sprints (Jan 2025)
-- 🤖 **Certified Artificial Intelligence (AI)** - NTI (Jun 2025)
-- 🏭 **Digital Manufacturing & Design** - University at Buffalo (Apr 2023)
-- 📡 **IoT & Embedded Systems** - UC Irvine (May 2022)
-- 💻 **Digital Cadre** - Hayat Karima & MCIT
-- 🐍 **Programming using Python** - Microsoft (Mar 2023)
+<br>
 
-### Leadership & Business
-- 💼 **Financial Entrepreneurship** - Egyptian Federation of Chambers of Commerce
-- 🌍 **Sustainable Development Ambassador** - Ministry of Planning
-- ⚖️ **Leaders of the New Republic** - Ministry of Youth and Sports
-- 🚀 **Innovation & Digital Transformation for Youth Leaders** - Friedrich Naumann Foundation
+| Category | Certification | Issuer |
+| :--- | :--- | :--- |
+| **Tech** | 🎓 Generative AI Certificate (GAIC) | Sprints (Jan 2025) |
+| **Tech** | 🤖 Certified Artificial Intelligence (AI) | NTI (Jun 2025) |
+| **Tech** | 🏭 Digital Manufacturing & Design | University at Buffalo |
+| **Tech** | 📡 IoT & Embedded Systems | UC Irvine |
+| **Leadership** | 💼 Financial Entrepreneurship | Chambers of Commerce |
+| **Leadership** | 🌍 Sustainable Development Ambassador | Ministry of Planning |
 
 </details>
 
 ---
 
-## 🔮 My Vision for AI & Digital Transformation
+## 🔮 My Vision
 
-I believe we are at the cusp of a new era where **Artificial Intelligence** will not just automate tasks, but fundamentally reshape how we solve problems. My vision is to democratize access to these technologies, creating systems that are:
-
-*   **Adaptive:** Learning and evolving with user needs.
-*   **Accessible:** Breaking down barriers to education and technology.
-*   **Ethical:** Built with transparency and fairness at the core.
-
-Through **RoboVAI Solutions**, I aim to lead this charge in the MENA region, empowering the next generation of innovators.
+I believe we are at the cusp of a new era. My vision is to democratize access to these technologies, creating systems that are **Adaptive**, **Accessible**, and **Ethical**. Through **RoboVAI Solutions**, I aim to lead this charge in the MENA region.
 
 ---
 
@@ -149,18 +151,18 @@ I'm always open to discussing **AI innovation**, **Digital Transformation projec
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/201121891913)
 
 <br />
+<br />
 
 <p align="center">
-	<strong>Love RoboVAI? Support development with a cup of coffee — your contribution accelerates new features and keeps the project alive.</strong>
+	<strong>Love RoboVAI? Support development with a cup of coffee!</strong>
 </p>
 
-<p align="center">
-	<a href="https://www.buymeacoffee.com/moshabanai">
-		<img alt="Buy me a coffee" src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=moshabanai&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" />
-	</a>
-</p>
+<a href="https://www.buymeacoffee.com/moshabanai">
+  <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=moshabanai&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" />
+</a>
 
----
+<br />
+<br />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%">
 
