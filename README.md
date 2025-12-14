@@ -36,7 +36,7 @@ I founded **RoboVAI Solutions** to bridge the gap between technology and educati
 
 ### 🔷 Our Ecosystem
 
-### <img src="RoboVAI Bot.png" width="40" height="40" style="vertical-align: middle; margin-right: 10px;" /> 1. [RoboVAI Bot Platform (haban/robovai_bot)](https://robovai-backend.onrender.com/)
+### 1. <img src="RoboVAI Bot.png" width="40" height="40" style="vertical-align: middle; margin-right: 10px;" /> [RoboVAI Bot Platform](https://robovai-backend.onrender.com/)
 **The Ultimate AI-Powered Customer Engagement Solution**
 
 An enterprise-grade, multi-tenant chatbot platform designed to revolutionize customer interaction.
@@ -44,27 +44,26 @@ An enterprise-grade, multi-tenant chatbot platform designed to revolutionize cus
 * **Key Features:** Visual Flow Builder, Smart Lead Capture, Hybrid Response System.
 * **Impact:** Automating customer support and sales 24/7.
 
-### <img src="RoboVAI Bot.png" width="40" height="40" style="vertical-align: middle; margin-right: 10px;" /> 2. [RoboVAI Academy (Example URL)](https://robovai-academy-example.com/)
-**The Ultimate AI-Powered Customer Engagement Solution**
+### 2. <img src="robovai academy.png" width="40" height="40" style="vertical-align: middle; margin-right: 10px;" /> [RobovAI Academy](#)
+**Transform Your Learning Journey**
 
 A comprehensive online education platform connecting students with expert teachers.
 * **Target Scale:** Designed to support **10,000+ Active Students** & **500+ Teachers**.
 * **Tech:** Next.js, Real-time Video.
 * **Mission:** Making quality education accessible.
 
-### <img src="robovai j.png" width="40" height="40" style="vertical-align: middle; margin-right: 10px;" /> 3. [RobovAI Junior](https://robovai-junior.netlify.app/)
+### 3. <img src="robovai j.png" width="40" height="40" style="vertical-align: middle; margin-right: 10px;" /> [RobovAI Junior](https://robovai-junior.netlify.app/)
 **Gateway to Programming & AI for Kids**
 
 Interactive mobile app teaching coding through gamification.
 * **Features:** Visual Programming (Blockly) & Python.
 * **Tech:** React Native, AI-Powered Assistant.
 
-### <img src="RoboVAI Solutions.png" width="40" height="40" style="vertical-align: middle; margin-right: 10px;" /> 4. [RoboVAI Corporate](https://robovai.blogspot.com/)
+### 4. <img src="RoboVAI Solutions.png" width="40" height="40" style="vertical-align: middle; margin-right: 10px;" /> [RoboVAI Corporate](https://robovai.blogspot.com/)
 **Digital Transformation Partner**
 
 The central hub for our enterprise services, from ERP systems to custom AI solutions.
 
----
 
 
 ## 🚀 Strategic Case Studies Showcase
