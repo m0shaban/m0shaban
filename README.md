@@ -54,7 +54,7 @@ A comprehensive online education platform connecting students with expert teache
 *   **Tech:** Next.js, Real-time Video.
 *   **Mission:** Making quality education accessible.
 
-### <img src="robovai j.jpg" width="40" height="40" style="vertical-align: middle; margin-right: 10px;" /> 3. [RobovAI Junior](https://robovai-junior.netlify.app/)
+### <img src="robovai j.png" width="40" height="40" style="vertical-align: middle; margin-right: 10px;" /> 3. [RobovAI Junior](https://robovai-junior.netlify.app/)
 **Gateway to Programming & AI for Kids**
 
 Interactive mobile app teaching coding through gamification.
