@@ -1,59 +1,152 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00c6ff&height=300&section=header&text=Mohamed%20Shaban&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Ecosystem%20Architect%20%7C%20Tech%20Founder&descAlignY=51&descAlign=62&descSize=20" />
+
+<a href="https://moshaban.me"><img src="https://img.shields.io/badge/🌐-moshaban.me-58a6ff?style=flat-square&labelColor=0d1117" /></a>&nbsp;
+<a href="https://linkedin.com/in/mohamed-shaban"><img src="https://img.shields.io/badge/LinkedIn-mohamed--shaban-0a66c2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>&nbsp;
+<a href="https://wa.me/201121891913"><img src="https://img.shields.io/badge/WhatsApp-Let's%20Talk-25d366?style=flat-square&logo=whatsapp&logoColor=white&labelColor=0d1117" /></a>&nbsp;
+<a href="mailto:msalatmani@gmail.com"><img src="https://img.shields.io/badge/Email-msalatmani-ea4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=m0shaban&label=Profile+Views&color=58a6ff&style=flat-square&labelColor=0d1117" />&nbsp;
+<img src="https://img.shields.io/github/followers/m0shaban?style=flat-square&color=58a6ff&label=Followers&labelColor=0d1117" />&nbsp;
+<a href="https://github.com/m0shaban/enterprise-ai-prompts"><img src="https://img.shields.io/github/stars/m0shaban/enterprise-ai-prompts?style=flat-square&color=ffd700&label=⭐%20enterprise-ai-prompts&labelColor=0d1117" /></a>
+
 </div>
 
-<h1 align="center">Hi there 👋 I'm Mohamed Shaban</h1>
+---
 
-<p align="center">
-  <em>Mechatronics Engineer turned <strong>AI Ecosystem Architect</strong>. Founder of <a href="https://robovai.tech">RoboVAI.Tech</a>. I don't just write code; I build complete, intelligent, and scalable ecosystems that solve real-world problems across industries.</em>
-</p>
+<table>
+<tr>
+<td width="55%">
+
+## 👋 Who is Mohamed Shaban?
+
+I operate at the intersection of **three disciplines** that most people treat as separate worlds:
+
+```
+⚙️  Hardware (Mechatronics)
+        ↓ — "Real systems have physical constraints"
+🤖  Enterprise AI & Ecosystems
+        ↓ — "Agents must operate within system logic"
+🏛️  Government & Digital Policy
+        ↓ — "Scale requires institutional architecture"
+```
+
+**This triple foundation** is why the systems I build are different — they account for edge cases, failure modes, and escalation paths that pure software architects miss.
+
+**Currently:**
+- 🏢 **Founder & Tech Ecosystem Architect** — RoboVAI
+- 🏛️ **Researcher** — Technical Office of Egypt's Deputy Minister (MCIT)
+- 🌍 **Digital Transformation Specialist** — Omal Misr Complex
+
+</td>
+<td width="45%" align="center">
+
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhByFAZWAEQoaFO9nr_E6QVLqIAo8GKI5PolkZu035vcCRX6uwNdAOGBvGfnaCBwlORJROgngSJdFXli8DnQGSJfVPrEYRlxLHhROo8GPDBK0N3EMLYWLfT32TEv4qPNgEHJ8fCLMBvKPO78MjkSFxDUExuk3DQmQhh9K8jCJDq6Iqf_hmnJsa801Gq1paW/s400/504895041_3964057297242101_5019402264860843098_n%20%281%29.jpg" width="260" style="border-radius:12px" alt="Mohamed Shaban" />
+
+<br/><br/>
+
+> *"Architecture is not about writing code.<br/>It's about designing systems that can survive contact with reality."*
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏗️ The Architecture Stack
 
 <div align="center">
-  <a href="https://linkedin.com/in/mohamed-shaban"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://robovai.tech"><img src="https://img.shields.io/badge/Website-RoboVAI.Tech-00c6ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
-  <a href="mailto:m.shaban.m@hotmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+| Layer | What I Build | Technologies |
+|:---:|:---|:---|
+| 🧠 **AI Intelligence** | Multi-agent orchestration, RAG pipelines, LLM operations | LangChain, Qdrant, HuggingFace, Gemini, DeepSeek |
+| 🔐 **Security & Auth** | Dynamic RBAC, JWT lifecycle management, role engines | Flask, SQLAlchemy, Redis, .NET 8 WPF |
+| 📷 **Edge AI & Vision** | Real-time ALPR, video stream processing, IoT intelligence | OpenCV, YOLO, ESP32, Jetson |
+| 🌐 **Omnichannel Chat**| Unified messaging gateways (WhatsApp, Telegram, FB) | Node.js, FastAPI, Python, WebSockets |
+| 🏢 **Enterprise SaaS** | ERP modules, POS systems, project management platforms | C# WPF, React, Node.js, Flutter |
+| 🤖 **Agent Automation** | Telegram bots, AI tutors, business automation suites | n8n, Python, Celery, Make |
+
 </div>
 
-<br/>
+---
 
-## 🚀 The Ecosystems I've Built (RoboVAI Portfolio)
+## 🌟 The RoboVAI Ecosystem Showcase
 
-I specialize in **Micro-Orbit Architecture**, weaving separate advanced applications into a unified AI-powered enterprise ecosystem. 
-
-### 🏢 B2B & Enterprise Solutions
-- **[RoboVAI POS & Smart Inventory](https://github.com/m0shaban/robovai-pos-showcase):** A dual-component enterprise system featuring a robust .NET 8 WPF Desktop POS and a real-time Vanilla JS/Firebase Inventory PWA.
-- **NeoFikr Omni-Channel Platform:** A comprehensive Python (Flask/FastAPI) chatbot platform integrating DeepSeek/Claude AI across Telegram, WhatsApp, and Facebook Messenger.
-- **Sandex Digital Transformation:** High-performance, production-ready landing pages and B2B tech infrastructures.
-
-### 🎓 EdTech & E-Learning
-- **[Kids Coding Academy](https://github.com/m0shaban/kids-coding-academy):** An interactive, AI-powered platform designed to teach the next generation of engineers.
-- **Echo Tutor (Yoyo Seetina) & Virtual Teachers:** Intelligent AI language tutors providing immersive and dynamic learning experiences.
-- **Galaxy of Geniuses:** A cosmic-themed educational application built with React, TypeScript, and Vite.
-
-### 🔐 Security & Hospitality
-- **[Salama Bot](https://github.com/m0shaban/salama-bot):** An advanced AI safety and community moderation platform.
-- **Secure Messenger:** A Python-based end-to-end encrypted messaging tool utilizing CJK substitution ciphers.
-- **Moshebo AI Concierge:** A next-gen AI hospitality concierge platform designed to automate hotel services.
-
-### 💰 FinTech & Productivity
-- **FinGenius:** A smart financial assistant app built natively in Flutter.
-- **TaskMaster AI:** A sleek React/Vite task management app powered by AI analytics.
-- **StudyWorkAI:** A Kotlin/Jetpack Compose Android app integrating DeepSeek for productivity.
-
-<br/>
-
-## 🛠️ My Arsenal (Tech Stack)
+> I don't build isolated apps. I build interconnected ecosystems targeting specific industries.
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,cs,js,ts,dart,kotlin,java" /><br>
-  <img src="https://skillicons.dev/icons?i=react,flutter,tailwind,nodejs,express,flask,fastapi" /><br>
-  <img src="https://skillicons.dev/icons?i=sqlite,mongodb,firebase,postgres,docker,git,github" /><br>
-  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,linux,windows" />
+
+<table>
+<tr>
+<td align="center">
+
+**🏢 [RoboVAI POS & Smart Inventory](https://github.com/m0shaban/robovai-pos-showcase)**
+<br/><sub>Dual-component Enterprise Retail System</sub>
+<br/><sub>`.NET 8 WPF` `C#` `Vanilla JS` `Firebase`</sub>
+
+</td>
+<td align="center">
+
+**🎓 [Kids Coding Academy](https://github.com/m0shaban/kids-coding-academy)**
+<br/><sub>AI-Powered Education Platform</sub>
+<br/><sub>`Flutter` `Dart` `AI Gamification`</sub>
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**🏨 Moshebo AI Concierge**
+<br/><sub>Next-Gen Hospitality & Hotel Chatbots</sub>
+<br/><sub>`Node.js` `Express` `AI Agents`</sub>
+
+</td>
+<td align="center">
+
+**🔐 [Salama Bot](https://github.com/m0shaban/salama-bot)**
+<br/><sub>Community AI Safety Moderation</sub>
+<br/><sub>`Python` `LLM Rules` `Security`</sub>
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**🌐 Sandex AI Transformation**
+<br/><sub>B2B Landing Pages & Infrastructure</sub>
+<br/><sub>`HTML5/CSS3` `JS` `Performance`</sub>
+
+</td>
+<td align="center">
+
+**💬 NeoFikr Omni-Channel Platform**
+<br/><sub>Unified Telegram, WhatsApp & FB Bots</sub>
+<br/><sub>`Python` `Flask/FastAPI` `DeepSeek`</sub>
+
+</td>
+</tr>
+</table>
+
 </div>
+
+---
+
+## 🛠️ Extracted Open-Source Tools
+
+*Components decoupled from my live enterprise systems:*
+
+| Project | Description | Context |
+|---|---|---|
+| **[Flask RBAC Microservice](https://github.com/m0shaban/flask-rbac-microservice)** | Dynamic Role-Based Access Control | From BMS Enterprise System |
+| **[Local RAG Ingestion Engine](https://github.com/m0shaban/local-rag-ingestion-engine)** | Air-gapped document intelligence | From SecureAI Platform |
+| **[ALPR Stream Processor](https://github.com/m0shaban/alpr-stream-processor)** | Edge AI for license plates | From Robofy Parking AI |
+| **[Omni-Content Orchestrator](https://github.com/m0shaban/omni-content-orchestrator)** | LLM-to-Publisher middleware | From ContentOrbit CMS |
+| **Secure Messenger Protocol** | CJK Substitution cipher messaging | Standalone Python Crypto Tool |
 
 <br/>
 
-## 📈 GitHub Analytics
+## 📈 Code Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=m0shaban&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
@@ -65,8 +158,3 @@ I specialize in **Micro-Orbit Architecture**, weaving separate advanced applicat
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=m0shaban&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%" />
 </div>
-
----
-<p align="center">
-  <i>"Technology is the tool, people are the goal. The greatest achievement is building a team that builds achievements."</i>
-</p>
