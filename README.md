@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://moshaban.me"><img src="https://img.shields.io/badge/🌐-moshaban.me-58a6ff?style=flat-square&labelColor=0d1117" /></a>&nbsp;
-<a href="https://linkedin.com/in/mohamed-shaban"><img src="https://img.shields.io/badge/LinkedIn-mohamed--shaban-0a66c2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>&nbsp;
+<a href="https://linkedin.com/in/msalatmani"><img src="https://img.shields.io/badge/LinkedIn-msalatmani-0a66c2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>&nbsp;
 <a href="https://wa.me/201121891913"><img src="https://img.shields.io/badge/WhatsApp-Let's%20Talk-25d366?style=flat-square&logo=whatsapp&logoColor=white&labelColor=0d1117" /></a>&nbsp;
 <a href="mailto:msalatmani@gmail.com"><img src="https://img.shields.io/badge/Email-msalatmani-ea4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
 
