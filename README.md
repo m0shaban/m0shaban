@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Mohamed%20Shaban&fontSize=65&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Intelligence%20Systems%20Architect%20%7C%20Founder%20%40%20RoboVAI%20%7C%20MCIT%20Researcher&descAlignY=60&descSize=16&descColor=8b949e" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Mohamed%20Shaban&fontSize=65&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Tech%20Founder%20%7C%20AI%20Ecosystem%20Architect%20%7C%20Systems%20Transformer&descAlignY=60&descSize=16&descColor=8b949e" />
 
 <div align="center">
 
 <a href="https://moshaban.me"><img src="https://img.shields.io/badge/🌐-moshaban.me-58a6ff?style=flat-square&labelColor=0d1117" /></a>&nbsp;
-<a href="https://linkedin.com/in/msalatmani"><img src="https://img.shields.io/badge/LinkedIn-msalatmani-0a66c2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>&nbsp;
+<a href="https://linkedin.com/in/msalatmani"><img src="https://img.shields.io/badge/LinkedIn-mohamed--shaban-0a66c2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>&nbsp;
 <a href="https://wa.me/201121891913"><img src="https://img.shields.io/badge/WhatsApp-Let's%20Talk-25d366?style=flat-square&logo=whatsapp&logoColor=white&labelColor=0d1117" /></a>&nbsp;
 <a href="mailto:msalatmani@gmail.com"><img src="https://img.shields.io/badge/Email-msalatmani-ea4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
 
@@ -23,23 +23,26 @@
 
 ## 👋 Who is Mohamed Shaban?
 
-I operate at the intersection of **three disciplines** that most people treat as separate worlds:
+> *"I don't just write code; I build intelligent, scalable ecosystems that automate industries."*
+
+I am a Mechatronics Engineer turned **AI Ecosystem Architect** and the founder of **RoboVAI.Tech**. I operate at the critical intersection of physical logic and artificial intelligence:
 
 ```
-⚙️  Hardware (Mechatronics)
-        ↓ — "Real systems have physical constraints"
-🤖  Enterprise AI & Ecosystems
-        ↓ — "Agents must operate within system logic"
-🏛️  Government & Digital Policy
-        ↓ — "Scale requires institutional architecture"
+⚙️  Hardware Roots
+        ↓ — "Real systems have physical limits and constraints."
+🤖  Enterprise AI
+        ↓ — "Agents must operate within strict business logic."
+🧩  Ecosystem Architecture
+        ↓ — "Scale requires interconnected micro-orbits, not isolated apps."
 ```
 
-**This triple foundation** is why the systems I build are different — they account for edge cases, failure modes, and escalation paths that pure software architects miss. I don't build isolated apps; I build **Micro-Orbit Architectures**—interconnected ecosystems that automate entire industries.
+**This triple foundation** is why my systems are different—they account for edge cases, deployment realities, and failure modes that pure software developers often miss.
 
 **Currently:**
-- 🏢 **Founder & CEO** — RoboVAI Intelligent Solutions
-- 🏛️ **Researcher** — Technical Office of Egypt's Deputy Minister (MCIT)
-- 🌍 **Digital Transformation Specialist** — Omal Misr Complex
+- 🏢 **Founder & Tech Ecosystem Architect** — RoboVAI.Tech
+- 🪖 **Military Service** — Egyptian Armed Forces (Currently Serving)
+- 🚀 **Continuous Builder** — Architecting Next-Gen B2B AI Solutions.
+- 🤝 **Open to Opportunities** — Actively available for freelance enterprise architecture, B2B digital transformation consulting, and remote strategic partnerships.
 
 </td>
 <td width="45%" align="center">
@@ -258,7 +261,7 @@ I operate at the intersection of **three disciplines** that most people treat as
 
 ---
 
-## 🏆 Recognition, Leadership & Media
+## 🏆 Past Leadership & Recognition
 
 <div align="center">
 
@@ -321,7 +324,7 @@ Researcher @ MCIT Deputy Minister's Office
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=110&section=footer" />
 
-**🤝 Open to: Enterprise AI Architecture · Digital Transformation Consulting · Strategic Partnerships**
+**🤝 Actively Open to: Enterprise AI Architecture · Digital Transformation Consulting · Remote Strategic Partnerships**
 
 <br/>
 
