@@ -40,7 +40,6 @@ I am a Mechatronics Engineer turned **AI Ecosystem Architect** and the founder o
 
 **Currently:**
 - 🏢 **Founder & Tech Ecosystem Architect** — RoboVAI.Tech
-- 🪖 **Military Service** — Egyptian Armed Forces (Currently Serving)
 - 🚀 **Continuous Builder** — Architecting Next-Gen B2B AI Solutions.
 - 🤝 **Open to Opportunities** — Actively available for freelance enterprise architecture, B2B digital transformation consulting, and remote strategic partnerships.
 
