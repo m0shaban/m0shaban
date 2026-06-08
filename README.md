@@ -28,13 +28,13 @@ I operate at the intersection of **three disciplines** that most people treat as
 ```
 ⚙️  Hardware (Mechatronics)
         ↓ — "Real systems have physical constraints"
-🤖  Enterprise AI & LLMs
+🤖  Enterprise AI & Ecosystems
         ↓ — "Agents must operate within system logic"
 🏛️  Government & Digital Policy
         ↓ — "Scale requires institutional architecture"
 ```
 
-**This triple foundation** is why the systems I build are different — they account for edge cases, failure modes, and escalation paths that pure software architects miss.
+**This triple foundation** is why the systems I build are different — they account for edge cases, failure modes, and escalation paths that pure software architects miss. I don't build isolated apps; I build **Micro-Orbit Architectures**—interconnected ecosystems that automate entire industries.
 
 **Currently:**
 - 🏢 **Founder & CEO** — RoboVAI Intelligent Solutions
@@ -120,9 +120,9 @@ I operate at the intersection of **three disciplines** that most people treat as
 
 ## 🌟 The RoboVAI Ecosystem Showcase
 
-> I don't build isolated apps. I build interconnected ecosystems targeting specific industries.
+> **Micro-Orbit Architecture**: A design paradigm where each product is an independent 'orbit' that seamlessly integrates into the central RoboVAI ecosystem.
 
-<details open>
+<details>
 <summary><b>🤖 AI & Intelligence Systems (click to expand)</b></summary>
 
 <br/>
@@ -134,15 +134,15 @@ I operate at the intersection of **three disciplines** that most people treat as
 | **[Sandex AI](https://github.com/m0shaban/sandex.ai)** | Semantic search & digital transformation arm | JavaScript, Vector DB |
 | **[AI Legal Advisor](https://github.com/m0shaban/ai_legal_advisor)** | Arabic-first secure legal AI assistant | Flutter, Dart, LLM |
 | **[Salama Bot](https://github.com/m0shaban/salama-bot)** | Community AI Safety Moderation Platform | Python, LLM Rules, Security |
-| **NeoFikr Omni-Channel**| Unified Telegram, WhatsApp & FB Bots Platform | Python, Flask, DeepSeek |
+| **NeoFikr Omni-Channel** | Unified Telegram, WhatsApp & FB Bots Platform | Python, Flask, DeepSeek |
 | **[Kids Coding Academy](https://github.com/m0shaban/kids-coding-academy)** | Interactive AI-Powered Educational Platform | Flutter, Dart, Gamification |
-| **Moshebo AI Concierge**| Next-Gen Hospitality & Hotel Chatbots | Node.js, Express, Agents |
+| **Moshebo AI Concierge** | Next-Gen Hospitality & Hotel Chatbots | Node.js, Express, Agents |
 | **[AI Virtual Teacher](https://github.com/m0shaban/AI-Virtual-Teacher)** | Bilingual adaptive educational AI (Yoyo Seetina) | Python, NLP, LangChain |
 | **[RoboVAI Labs](https://github.com/m0shaban/RoboVAI-Labs)** | Hyper-personalized AI learning ecosystem | TypeScript, AI |
 
 </details>
 
-<details open>
+<details>
 <summary><b>🏢 Enterprise SaaS & Platforms (click to expand)</b></summary>
 
 <br/>
@@ -159,7 +159,7 @@ I operate at the intersection of **three disciplines** that most people treat as
 
 </details>
 
-<details open>
+<details>
 <summary><b>🔩 Hardware & Mechatronics (click to expand)</b></summary>
 
 <br/>
@@ -327,7 +327,7 @@ Researcher @ MCIT Deputy Minister's Office
 
 [![WhatsApp](https://img.shields.io/badge/Start%20a%20Conversation-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201121891913?text=Hi%20Mohamed%2C%20I%20found%20you%20on%20GitHub%20and%20would%20like%20to%20discuss%20a%20project.)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-shaban)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/msalatmani)
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Full%20Portfolio-0d1117?style=for-the-badge&logo=safari&logoColor=58a6ff)](https://moshaban.me)
 
