@@ -8,10 +8,10 @@
 
 <br/>
 
+[![PyPI Version](https://img.shields.io/pypi/v/robovai-ocr?style=for-the-badge&color=38bdf8&logo=pypi&logoColor=white)](https://pypi.org/project/robovai-ocr)
 [![Website](https://img.shields.io/badge/Portfolio-msalatmani.org-38bdf8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://msalatmani.org)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Shaban-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedshabanalatmani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Shaban-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/msalatmani)
 [![Email](https://img.shields.io/badge/Email-msalatmani%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msalatmani@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+20_112_189_1913-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201121891913)
 
 </div>
 
@@ -24,6 +24,21 @@ I am an **Applied AI Engineer** with an engineering foundation in **Mechatronics
 - 🧠 **Problem-First Mindset**: I don't start with tools or trends; I analyze constraints, understand user needs, and architect the right system.
 - ⚙️ **Systems Thinking**: Seamlessly connecting the dots across **UX → Backend → AI Models → APIs → Database → Cloud Deployment**.
 - 🛠️ **End-to-End Delivery**: Comfortable owning the full lifecycle from problem discovery and MVP to production deployment, automation, and monitoring.
+
+---
+
+## 📦 Published PyPI Packages & SDKs
+
+### 👁️ `robovai-ocr` — Enterprise Computer Vision & OCR Core
+> **Production-grade Python SDK & CLI for Parking Management, ALPR, Face Verification, and National ID OCR.**
+
+```bash
+pip install robovai-ocr
+```
+
+- 📌 **PyPI Package**: [pypi.org/project/robovai-ocr](https://pypi.org/project/robovai-ocr)
+- 🚀 **CLI Included**: `robovai-cli` & `robovai-server` (FastAPI REST Server included)
+- 🛠️ **Core Features**: Automatic License Plate Recognition (ALPR), OpenCV edge processing, EasyOCR integration, YOLO vehicle detection, and identity verification.
 
 ---
 
@@ -47,6 +62,7 @@ I am an **Applied AI Engineer** with an engineering foundation in **Mechatronics
 ### 👁️ Computer Vision & Edge AI
 | Repository | Description | Stack |
 | :--- | :--- | :--- |
+| **[robovai-ocr](https://pypi.org/project/robovai-ocr)** | Enterprise Computer Vision & OCR Core for Parking Systems, ALPR, Face Verification & ID OCR. | `Python` `PyPI` `YOLO` `OpenCV` |
 | **[alpr-stream-processor](https://github.com/m0shaban/alpr-stream-processor)** | Real-time Edge AI microservice for Automatic License Plate Recognition using OpenCV and edge OCR. | `Python` `OpenCV` `Edge AI` `OCR` |
 | **[robofy-parking-ai](https://github.com/m0shaban/robofy-parking-ai)** | Edge-to-Cloud ALPR Computer Vision platform with YOLO for real-time vehicle tracking. | `Python` `YOLO` `Computer Vision` |
 
@@ -64,6 +80,7 @@ I am an **Applied AI Engineer** with an engineering foundation in **Mechatronics
 
 **Applied AI & LLMs**  
 ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
+![PyPI](https://img.shields.io/badge/PyPI-robovai--ocr-3776ab?style=flat-square&logo=pypi&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1c3c3c?style=flat-square&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-dc244c?style=flat-square&logoColor=white)
@@ -82,13 +99,6 @@ I am an **Applied AI Engineer** with an engineering foundation in **Mechatronics
 ![React](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569b?style=flat-square&logo=flutter&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-ea4b71?style=flat-square&logo=n8n&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088ff?style=flat-square&logo=github-actions&logoColor=white)
-
-**Engineering Foundation**  
-![ESP32](https://img.shields.io/badge/ESP32-e7352c?style=flat-square&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979d?style=flat-square&logo=arduino&logoColor=white)
-![Embedded C](https://img.shields.io/badge/Embedded%20C-a8b9cc?style=flat-square&logo=c&logoColor=black)
-![Mechatronics](https://img.shields.io/badge/Mechatronics-Systems-orange?style=flat-square)
 
 </div>
 
@@ -101,15 +111,12 @@ I am an **Applied AI Engineer** with an engineering foundation in **Mechatronics
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0shaban&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=8b949e&langs_count=8" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m0shaban&theme=tokyonight&hide_border=true&background=0d1117&stroke=30363d&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" />
-</div>
-
 ---
 
 ## 📬 Let's Connect
 
 - 🌐 **Website & Portfolio**: [https://msalatmani.org](https://msalatmani.org)
-- 💼 **LinkedIn**: [linkedin.com/in/mohamedshabanalatmani](https://www.linkedin.com/in/mohamedshabanalatmani)
+- 💼 **LinkedIn**: [linkedin.com/in/msalatmani](https://www.linkedin.com/in/msalatmani)
+- 📦 **PyPI**: [pypi.org/project/robovai-ocr](https://pypi.org/project/robovai-ocr)
 - 📧 **Email**: [msalatmani@gmail.com](mailto:msalatmani@gmail.com)
 - 💬 **WhatsApp**: [+20 112 189 1913](https://wa.me/201121891913)
